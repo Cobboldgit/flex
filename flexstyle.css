@@ -1,0 +1,45 @@
+
+
+.container {
+	margin: 5px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.nav-box {
+	width: 100%;
+	height: 10vh;
+	background: #afe0e0;
+}
+
+.h-box {
+	width: 100%;
+	height: 25vh;
+	background: #afe0e0;
+	margin-top: 10px;
+}
+
+.box-item {
+	width: 30%;
+	height: 30vh;
+	background: #afe0e0;
+	/*margin-bottom:  5px;*/
+	
+
+	
+}
+
+.body-box {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.footer-box {
+	height:20vh ;
+	width:100%;
+	background: #afe0e0;
+	margin-top: 20px
+}
